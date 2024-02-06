@@ -1,4 +1,5 @@
 {
+    "id": "a5b521ba-7221-4343-ae6d-628d37961dfb",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -690,7 +691,6 @@
             "name": "Text_Input2"
         }
     ],
-    "id": "a5b521ba-7221-4343-ae6d-628d37961dfb",
     "thunkableVersion": 443,
     "bindings": null,
     "name": "Screen2"
